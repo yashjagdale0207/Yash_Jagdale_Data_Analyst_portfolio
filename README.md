@@ -7,6 +7,11 @@ Technology Used:Tableau for visualization and analytics.
 ![Dashboard 1](https://github.com/yashjagdale0207/movies-analysis/assets/145290827/56cdd8d6-324d-4ca5-83c4-b4d27035f11f)
 Repostiory Link :[click here](https://github.com/yashjagdale0207/Movies_Analysis_Tableau)
 
+# Retail Store Profit Analysis (Tableau):- **[Story](https://yashjagdale0207.github.io/Retail_Industry_Tableau/)**
+Led the development of a Tableau project, offering intricate insights into the profitability of a European retail store specializing in Furniture, Office Supplies, and Technology products. Employed dynamic dashboards, temporal analysis, and genre-specific visuals for enhanced data comprehension. Technology Used: Tableau for visualization and analytics, contributing to strategic decision-making in the competitive retail landscape.
+![Retail Industry](https://github.com/yashjagdale0207/Tableau_Project1/assets/145290827/f2ae647e-baad-4f1b-9268-c27540b9338d)
+Repostiory Link :[click here](https://github.com/yashjagdale0207/Retail_Industry_Tableau)
+
 # Python SQL Integration:- 
 Executed the development and implementation of a data management system using Python and SQL for efficient data extraction and analysis from SQL Server databases. Successfully achieved automated desktop notifications for task status updates and expertly managed data export to Excel files. Proficient in maintaining data integrity and ensuring seamless database connectivity
 Technology Used: Python, SQL, Pandas, pyodbc, Plyer, Microsoft Excel.
