@@ -15,6 +15,10 @@ Repostiory Link :[click here](https://github.com/yashjagdale0207/Retail_Industry
 # Data Cleaning Report: Customer Call List(Python):-**[click here](https://github.com/yashjagdale0207/Data_Cleaning_Report_Customer_Call_List_Python)**
 Performed data cleaning on a customer call list using Python and Pandas. Removed duplicates, dropped unnecessary columns, and standardized formatting for last names and phone numbers. Extracted address details and transformed categorical columns ('Paying Customer' and 'Do_Not_Contact') for uniformity. Ensured data integrity by handling null values and eliminating rows with missing phone numbers. The cleaned dataset is now ready for further analysis.
 
+
+# Diwali Sales Data Analysis:-**[click here](https://github.com/yashjagdale0207/Diwali_Sales_Data_Analysis_Python)**
+Performed exploratory data analysis (EDA) on Diwali Sales Data using Python's Pandas, NumPy, Matplotlib, and Seaborn libraries. Cleaned the dataset by dropping unrelated columns and handling null values. Conducted visualizations to analyze sales trends based on gender, age groups, states, marital status, occupations, and product categories. Identified key insights, such as a higher female buyer count and purchasing power, popular age groups, top-selling states, and preferred product categories. The analysis provides valuable information for targeted marketing strategies and product optimization.
+
 # Python SQL Integration:- 
 Executed the development and implementation of a data management system using Python and SQL for efficient data extraction and analysis from SQL Server databases. Successfully achieved automated desktop notifications for task status updates and expertly managed data export to Excel files. Proficient in maintaining data integrity and ensuring seamless database connectivity
 Technology Used: Python, SQL, Pandas, pyodbc, Plyer, Microsoft Excel.
