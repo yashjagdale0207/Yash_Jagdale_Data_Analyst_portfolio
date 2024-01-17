@@ -1,4 +1,4 @@
-# yash-s_portfolio
+# Yash_Jagdale_Data_Analyst_portfolio
 Analytics Portfolio
 # Movie Analysis Dashboard (Tableau):- **[Dashboard](https://yashjagdale0207.github.io/Movies_Analysis_-Tableau-/)**
 Developed a Tableau project for detailed movie insights, employing dynamic title interaction, genre-specific visuals, temporal analysis, and a user-friendly interface.
