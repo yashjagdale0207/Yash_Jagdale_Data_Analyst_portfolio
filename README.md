@@ -21,5 +21,5 @@ Utilizes MySQL for efficient personal finance tracking. Features include structu
 # HR Data Analysis(SQL):**[click here](https://github.com/yashjagdale0207/HR_Data_Analysis_SQL)**
 This project harnesses SQL queries to dissect employee data, unraveling insights into attrition, demographics, and job satisfaction. By examining various facets, the queries offer a comprehensive perspective on the workforce, enabling organizations to make informed HR decisions and optimize management strategies.
 
-# Bank Database System:**[click here](https://github.com/yashjagdale0207/Bank_Database_System_SQL)**
+# Bank Database System(SQL):**[click here](https://github.com/yashjagdale0207/Bank_Database_System_SQL)**
 Established the `BANK` database with meticulous tables for managing account, bank, and customer information. Successfully executed queries to assess customer counts, average deposits, and family references. Explored unique bank branches, calculated total interest, and sorted account details, presenting a robust foundation for efficient financial data management.
