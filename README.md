@@ -3,6 +3,7 @@ Analytics Portfolio
 # Movie Analysis Dashboard (Tableau):- **[Dashboard](https://yashjagdale0207.github.io/Movies_Analysis_-Tableau-/)**
 Developed a Tableau project for detailed movie insights, employing dynamic title interaction, genre-specific visuals, temporal analysis, and a user-friendly interface.
 Technology Used:Tableau for visualization and analytics.
+![Dashboard 1](https://github.com/yashjagdale0207/movies-analysis/assets/145290827/56cdd8d6-324d-4ca5-83c4-b4d27035f11f)
 
 # Bank Database System:- 
 The Bank Database System is a structured data storage solution designed to manage and organize banking-related information efficiently. It helps banks and financial institutions store and retrieve data related to customers, accounts, transactions, and other critical aspects of their operations.
