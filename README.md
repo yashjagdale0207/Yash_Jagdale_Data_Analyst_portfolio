@@ -18,10 +18,10 @@ Technology Used: Python, SQL, Pandas, pyodbc, Plyer, Microsoft Excel.
 Developed an Employee Management app by seamlessly integrating Python with MySQL using the Kivy framework. Ensured secure database connections, interactive pop-ups, and robust error handling. Proficient in tasks like adding, editing, deleting, and searching employees. Utilized Kivy for a user-friendly GUI. Encourages collaboration for ongoing enhancements.
 Technology Used: Python, MySQL, Kivy.
 
-# Personal Expense Tracker: **[click here](https://github.com/yashjagdale0207/Personal_Expense_Tracker_SQL)**
+# Personal Expense Tracker(SQL): **[click here](https://github.com/yashjagdale0207/Personal_Expense_Tracker_SQL)**
 
 Utilizes MySQL for efficient personal finance tracking. Features include structured schema, user access control, and sample data for testing. Implements a limited user for secure data handling. Ideal for managing expenses, earnings, and taxes.
 
-# HR Data Analysis Project Summary:**[click here](https://github.com/yashjagdale0207/HR_Data_Analysis_SQL)**
+# HR Data Analysis(SQL):**[click here](https://github.com/yashjagdale0207/HR_Data_Analysis_SQL)**
 
 This project harnesses SQL queries to dissect employee data, unraveling insights into attrition, demographics, and job satisfaction. By examining various facets, the queries offer a comprehensive perspective on the workforce, enabling organizations to make informed HR decisions and optimize management strategies.
