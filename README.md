@@ -12,7 +12,7 @@ Led the development of a Tableau project, offering intricate insights into the p
 ![Retail Industry](https://github.com/yashjagdale0207/Tableau_Project1/assets/145290827/f2ae647e-baad-4f1b-9268-c27540b9338d)
 Repostiory Link :[click here](https://github.com/yashjagdale0207/Retail_Industry_Tableau)
 
-# Cab Investment Analysis Summary:-
+# Cab Investment Analysis Summary:- **[Dashboard](https://yashjagdale0207.github.io/Cab_Investment_Analysis_Tableau/)**
 In evaluating data from Black and Red cab companies spanning 2016 to 2018, I conducted a comprehensive analysis to support XYZ's investment decision. Key findings include insights into user distribution, margin dynamics, market share based on cities, and customer demographics. Visualizations on city-wise trends, payment methods, and average price comparisons were presented, along with a clustered analysis. To facilitate decision-making, concise dashboards were developed for each company, providing actionable insights for XYZ's executive team.
 
 # Data Cleaning Report: Customer Call List(Python):-**[click here](https://github.com/yashjagdale0207/Data_Cleaning_Report_Customer_Call_List_Python)**
