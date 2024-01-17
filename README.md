@@ -12,6 +12,9 @@ Led the development of a Tableau project, offering intricate insights into the p
 ![Retail Industry](https://github.com/yashjagdale0207/Tableau_Project1/assets/145290827/f2ae647e-baad-4f1b-9268-c27540b9338d)
 Repostiory Link :[click here](https://github.com/yashjagdale0207/Retail_Industry_Tableau)
 
+# Data Cleaning Report: Customer Call List(Python):-**[click here](https://github.com/yashjagdale0207/Data_Cleaning_Report_Customer_Call_List_Python)**
+Performed data cleaning on a customer call list using Python and Pandas. Removed duplicates, dropped unnecessary columns, and standardized formatting for last names and phone numbers. Extracted address details and transformed categorical columns ('Paying Customer' and 'Do_Not_Contact') for uniformity. Ensured data integrity by handling null values and eliminating rows with missing phone numbers. The cleaned dataset is now ready for further analysis.
+
 # Python SQL Integration:- 
 Executed the development and implementation of a data management system using Python and SQL for efficient data extraction and analysis from SQL Server databases. Successfully achieved automated desktop notifications for task status updates and expertly managed data export to Excel files. Proficient in maintaining data integrity and ensuring seamless database connectivity
 Technology Used: Python, SQL, Pandas, pyodbc, Plyer, Microsoft Excel.
